@@ -10,16 +10,10 @@
     <meta name="description" content="Our site is under construction">
     
     <!--Favicon-->
-    <link rel="shortcut icon" href="./images/favicon1.png" type="image/x-icon" />
-    
-    <!-- Font Awesome-->
-    <link href="font/font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon" />
     
     <!-- Bootstrap Core CSS-->
     <link type="text/css" rel="stylesheet" href="./css/bootstrap.min.css" media="screen,projection" />
-    
-    <!-- Material Design Bootstrap CSS -->
-    <link type="text/css" rel="stylesheet" href="./css/mdb.min.css" media="screen,projection" />
     
     <!-- My custom CSS -->
     <link type="text/css" rel="stylesheet" href="./css/style.css" media="screen,projection" />
@@ -39,21 +33,6 @@
             </div>
         </div>
     </section>
-
-    <!--jQuery first-->
-    <script type="text/javascript" src="./js/jquery-3.3.1.min.js"></script>
-    <!-- jQuery Ui -->
-    <script type="text/javascript" src="./js/jquery-ui.min.js"></script>
-    <!-- jQuery migrate -->
-    <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
-    <!-- Bootstrap tooltips -->
-    <script type="text/javascript" src="./js/popper.min.js"></script>
-    <!-- Bootstrap core JavaScript -->
-    <script type="text/javascript" src="./js/bootstrap.min.js"></script>
-    <!-- Material Design Bootstrap Javascript -->
-    <script type="text/javascript" src="./js/mdb.min.js"></script>
-    <!-- custom Javascript -->
-    <script type="text/javascript" src="./js/main.js"></script>
 
 </body>
 
